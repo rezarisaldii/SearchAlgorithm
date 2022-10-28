@@ -119,9 +119,9 @@ namespace SearchAlgorithm
             Console.WriteLine("Menu option");
             Console.WriteLine("================");
             Console.WriteLine("1. Linear Search");
-            Console.WriteLine("1. Binary Search");
-            Console.WriteLine("================");
+            Console.WriteLine("2. Binary Search");
             Console.WriteLine("3. Exit");
+            Console.WriteLine("================");
             Console.WriteLine("Enter your choice (1,2,3) : ");
             pilihanmenu = Convert.ToInt32(Console.ReadLine());
             switch (pilihanmenu)
