@@ -25,7 +25,7 @@ namespace SearchAlgorithm
                 if ((n > 0) && (n <= 20))
                     break;
                 else
-                    Console.WriteLine
+                    Console.WriteLine();
             }
         }
 
